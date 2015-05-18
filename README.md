@@ -1,6 +1,9 @@
 WebackGrowlErrorPlugin
 ===
 
+This is a work in Progress
+---
+
 Usage Example
 ---
 
